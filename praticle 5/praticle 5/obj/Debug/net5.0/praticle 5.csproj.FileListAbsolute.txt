@@ -1,0 +1,16 @@
+C:\תרגול #C\praticle 5\praticle 5\bin\Debug\net5.0\praticle 5.exe
+C:\תרגול #C\praticle 5\praticle 5\bin\Debug\net5.0\praticle 5.deps.json
+C:\תרגול #C\praticle 5\praticle 5\bin\Debug\net5.0\praticle 5.runtimeconfig.json
+C:\תרגול #C\praticle 5\praticle 5\bin\Debug\net5.0\praticle 5.runtimeconfig.dev.json
+C:\תרגול #C\praticle 5\praticle 5\bin\Debug\net5.0\praticle 5.dll
+C:\תרגול #C\praticle 5\praticle 5\bin\Debug\net5.0\ref\praticle 5.dll
+C:\תרגול #C\praticle 5\praticle 5\bin\Debug\net5.0\praticle 5.pdb
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.csprojAssemblyReference.cache
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.AssemblyInfoInputs.cache
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.AssemblyInfo.cs
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.csproj.CoreCompileInputs.cache
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.dll
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\ref\praticle 5.dll
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.pdb
+C:\תרגול #C\praticle 5\praticle 5\obj\Debug\net5.0\praticle 5.genruntimeconfig.cache

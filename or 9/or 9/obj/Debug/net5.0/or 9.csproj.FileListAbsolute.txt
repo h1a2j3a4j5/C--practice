@@ -1,0 +1,16 @@
+C:\תרגול #C\or 9\or 9\bin\Debug\net5.0\or 9.exe
+C:\תרגול #C\or 9\or 9\bin\Debug\net5.0\or 9.deps.json
+C:\תרגול #C\or 9\or 9\bin\Debug\net5.0\or 9.runtimeconfig.json
+C:\תרגול #C\or 9\or 9\bin\Debug\net5.0\or 9.runtimeconfig.dev.json
+C:\תרגול #C\or 9\or 9\bin\Debug\net5.0\or 9.dll
+C:\תרגול #C\or 9\or 9\bin\Debug\net5.0\ref\or 9.dll
+C:\תרגול #C\or 9\or 9\bin\Debug\net5.0\or 9.pdb
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.csprojAssemblyReference.cache
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.AssemblyInfoInputs.cache
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.AssemblyInfo.cs
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.csproj.CoreCompileInputs.cache
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.dll
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\ref\or 9.dll
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.pdb
+C:\תרגול #C\or 9\or 9\obj\Debug\net5.0\or 9.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\תרגול #C\or 13\or 13\bin\Debug\netcoreapp3.1\or 13.exe
+C:\תרגול #C\or 13\or 13\bin\Debug\netcoreapp3.1\or 13.deps.json
+C:\תרגול #C\or 13\or 13\bin\Debug\netcoreapp3.1\or 13.runtimeconfig.json
+C:\תרגול #C\or 13\or 13\bin\Debug\netcoreapp3.1\or 13.runtimeconfig.dev.json
+C:\תרגול #C\or 13\or 13\bin\Debug\netcoreapp3.1\or 13.dll
+C:\תרגול #C\or 13\or 13\bin\Debug\netcoreapp3.1\or 13.pdb
+C:\תרגול #C\or 13\or 13\obj\Debug\netcoreapp3.1\or 13.csprojAssemblyReference.cache
+C:\תרגול #C\or 13\or 13\obj\Debug\netcoreapp3.1\or 13.AssemblyInfoInputs.cache
+C:\תרגול #C\or 13\or 13\obj\Debug\netcoreapp3.1\or 13.AssemblyInfo.cs
+C:\תרגול #C\or 13\or 13\obj\Debug\netcoreapp3.1\or 13.csproj.CoreCompileInputs.cache
+C:\תרגול #C\or 13\or 13\obj\Debug\netcoreapp3.1\or 13.dll
+C:\תרגול #C\or 13\or 13\obj\Debug\netcoreapp3.1\or 13.pdb
+C:\תרגול #C\or 13\or 13\obj\Debug\netcoreapp3.1\or 13.genruntimeconfig.cache
