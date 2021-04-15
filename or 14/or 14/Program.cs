@@ -6,7 +6,23 @@ namespace or_14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            Console.WriteLine("this is : {0}", sod(a, b));
+            
         }
+        public static Boolean sod (int a , int b)
+        {
+            if (a == b +1)
+            {
+                return true;
+            }
+            if (b == a +1)
+            {
+                return true;
+            }
+            return false;
+        }
+
     }
 }
