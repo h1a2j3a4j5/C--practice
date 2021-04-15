@@ -10,7 +10,7 @@ namespace or_13
           string name = Console.ReadLine();
           string add = first(name);
           Console.WriteLine(" first charter is:{0}", add);
-            int num = 3;
+            
         }
         static string first(string plus)
         {

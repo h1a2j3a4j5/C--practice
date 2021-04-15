@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\תרגול #C\\praticle or C#\\or 13\\or 13\\or 13.csproj": {}
+    "C:\\C#\\or 13\\or 13\\or 13.csproj": {}
   },
   "projects": {
-    "C:\\תרגול #C\\praticle or C#\\or 13\\or 13\\or 13.csproj": {
+    "C:\\C#\\or 13\\or 13\\or 13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\תרגול #C\\praticle or C#\\or 13\\or 13\\or 13.csproj",
+        "projectUniqueName": "C:\\C#\\or 13\\or 13\\or 13.csproj",
         "projectName": "or 13",
-        "projectPath": "C:\\תרגול #C\\praticle or C#\\or 13\\or 13\\or 13.csproj",
+        "projectPath": "C:\\C#\\or 13\\or 13\\or 13.csproj",
         "packagesPath": "C:\\Users\\ussr\\.nuget\\packages\\",
-        "outputPath": "C:\\תרגול #C\\praticle or C#\\or 13\\or 13\\obj\\",
+        "outputPath": "C:\\C#\\or 13\\or 13\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
