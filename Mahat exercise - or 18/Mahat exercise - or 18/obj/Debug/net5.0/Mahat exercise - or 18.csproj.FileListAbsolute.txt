@@ -1,0 +1,16 @@
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\bin\Debug\net5.0\Mahat exercise - or 18.exe
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\bin\Debug\net5.0\Mahat exercise - or 18.deps.json
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\bin\Debug\net5.0\Mahat exercise - or 18.runtimeconfig.json
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\bin\Debug\net5.0\Mahat exercise - or 18.runtimeconfig.dev.json
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\bin\Debug\net5.0\Mahat exercise - or 18.dll
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\bin\Debug\net5.0\ref\Mahat exercise - or 18.dll
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\bin\Debug\net5.0\Mahat exercise - or 18.pdb
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.csprojAssemblyReference.cache
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.AssemblyInfoInputs.cache
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.AssemblyInfo.cs
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.csproj.CoreCompileInputs.cache
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.dll
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\ref\Mahat exercise - or 18.dll
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.pdb
+C:\C#\Mahat exercise - or 18\Mahat exercise - or 18\obj\Debug\net5.0\Mahat exercise - or 18.genruntimeconfig.cache
