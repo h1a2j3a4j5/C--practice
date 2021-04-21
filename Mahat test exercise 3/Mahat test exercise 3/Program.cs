@@ -10,15 +10,17 @@ namespace Mahat_test_exercise_3
             Console.WriteLine("Write a program that captures the student's shots and prints the student's best result :");
             double ball = 0;
             double max = 0;
+            double sum = 0;
             max = ball;
             for (int num = 1; num < 11; num++){
                 ball = Convert.ToDouble(Console.ReadLine());
                 if (ball> max)
                 {
                     max = ball;
+                    sum = num;
                 }
             }
-            Console.WriteLine("The best result is:{0}", max);
+            Console.WriteLine("The best result is:{0} location is: {1}", max ,sum);
            
         }
     }
