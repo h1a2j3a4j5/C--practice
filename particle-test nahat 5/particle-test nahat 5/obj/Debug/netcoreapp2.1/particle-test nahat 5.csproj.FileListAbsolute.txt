@@ -1,0 +1,12 @@
+C:\C#\particle-test nahat 5\particle-test nahat 5\bin\Debug\netcoreapp2.1\particle-test nahat 5.deps.json
+C:\C#\particle-test nahat 5\particle-test nahat 5\bin\Debug\netcoreapp2.1\particle-test nahat 5.runtimeconfig.json
+C:\C#\particle-test nahat 5\particle-test nahat 5\bin\Debug\netcoreapp2.1\particle-test nahat 5.runtimeconfig.dev.json
+C:\C#\particle-test nahat 5\particle-test nahat 5\bin\Debug\netcoreapp2.1\particle-test nahat 5.dll
+C:\C#\particle-test nahat 5\particle-test nahat 5\bin\Debug\netcoreapp2.1\particle-test nahat 5.pdb
+C:\C#\particle-test nahat 5\particle-test nahat 5\obj\Debug\netcoreapp2.1\particle-test nahat 5.csprojAssemblyReference.cache
+C:\C#\particle-test nahat 5\particle-test nahat 5\obj\Debug\netcoreapp2.1\particle-test nahat 5.AssemblyInfoInputs.cache
+C:\C#\particle-test nahat 5\particle-test nahat 5\obj\Debug\netcoreapp2.1\particle-test nahat 5.AssemblyInfo.cs
+C:\C#\particle-test nahat 5\particle-test nahat 5\obj\Debug\netcoreapp2.1\particle-test nahat 5.csproj.CoreCompileInputs.cache
+C:\C#\particle-test nahat 5\particle-test nahat 5\obj\Debug\netcoreapp2.1\particle-test nahat 5.dll
+C:\C#\particle-test nahat 5\particle-test nahat 5\obj\Debug\netcoreapp2.1\particle-test nahat 5.pdb
+C:\C#\particle-test nahat 5\particle-test nahat 5\obj\Debug\netcoreapp2.1\particle-test nahat 5.genruntimeconfig.cache
