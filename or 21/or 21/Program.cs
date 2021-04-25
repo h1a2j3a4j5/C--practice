@@ -6,19 +6,19 @@ namespace or_21
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Find the largest value:");
-            int bigestValue = 0;
-            int location = 0;
-            for(int i = 1; i < 6; i++)
+            Console.WriteLine("please enter days km:");
+            int km = 0;
+            int counter = 0;
+            int sum = 0;
+            km = int.Parse(Console.ReadLine());
+            while (km!=-2)
             {
-                int num = int.Parse(Console.ReadLine());
-                if (num > bigestValue)
-                {
-                    bigestValue = num;
-                    location = i;
-                }
+                counter++;
+                sum += km;
+                km = int.Parse(Console.ReadLine());
             }
-            Console.WriteLine("value bigest is: {0} and His loction: {1}",bigestValue,location);
+            Console.WriteLine("rusult is: {0} and avg: {1}", sum,sum/counter);
+            Console.WriteLine("The number of days he traveled: {0}", counter);
         }
     }
 }
