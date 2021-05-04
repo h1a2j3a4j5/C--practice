@@ -11,6 +11,7 @@ namespace or_25
              
             int sum = 0;
             int location = 0;
+            
             for(int i = 0; i < num.Length; i++)
             {
                 
