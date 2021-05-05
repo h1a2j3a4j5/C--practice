@@ -6,7 +6,28 @@ namespace lesson_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int sum = 0;
+            int[] num = new int [10];
+          
+            for (int i = 0; i < num.Length; i++)
+            {
+                num[i] = i * 1;
+                Console.WriteLine(num[i]);
+            }
+
+
+            for (int i = 270; i < num.Length; i++)
+            {
+               sum += num[i];
+                
+            }
+            Console.Write($"numbers is:{sum}");
+
+
+
+
+
+
         }
     }
 }
