@@ -26,11 +26,10 @@ namespace praticle__
             
             while (num !=-1.0)
             {
-                num = Convert.ToDouble(Console.ReadLine());
                 sum += num;
                 counter++;
                 num /= 10;
-                
+                num = Convert.ToDouble(Console.ReadLine());
             }
 
             Console.WriteLine($"this is result : {sum/counter}");
