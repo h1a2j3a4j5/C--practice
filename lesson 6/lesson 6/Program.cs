@@ -22,12 +22,6 @@ namespace lesson_6
                 
             }
             Console.Write($"numbers is:{sum}");
-
-
-
-
-
-
         }
     }
 }
