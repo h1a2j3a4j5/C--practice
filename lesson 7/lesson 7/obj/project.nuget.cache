@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6e0lM6RaERqaz8ELaKaS26KyN2sdv8BX6Ciy1qZ6vRH1EsjfoInMxqWejUNURtWsQvIARA1c/wrKeqL8iDlUMQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\lesson 7\\lesson 7\\lesson 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ussr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
